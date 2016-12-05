@@ -1,0 +1,17 @@
+<!--  Start your Copy-and-Paste Selection Here...  //-->
+
+<style type="text/css">
+
+Body {font-family : "Courier New", Courier, "Andale Mono", Monospace; background-color : #808000; color : #000000; font-size : 12pt;}
+
+A:link {color : #FFFFFF; font-weight : bolder; text-decoration : none; background : none;}
+
+A:visited {color : #808080; font-weight : normal; text-decoration : none; background : none;}
+
+A:hover {color : #00FF00; font-weight : normal; text-decoration : none; background : none;}
+
+A:active {color : #000000; font-weight : bolder; text-decoration : ; background : none;}
+
+</style>
+
+<!--  Stop Copy-and-Paste Here...  //-->

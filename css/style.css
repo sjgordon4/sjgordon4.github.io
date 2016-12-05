@@ -1,0 +1,40 @@
+body {
+    background-image:"images/cactus.jpeg";
+    background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
+	}
+	
+h1 {color:black;
+	font-size:30px;
+font-face: "verdana", Arial, sans-serif;
+text-align: justify;
+    letter-spacing: 1px;
+}
+
+h2 {color:black;
+font-size:20px;
+font-face: "verdana";
+text-align: justify;
+    letter-spacing: 2px;}
+
+h3 {color:red;
+font-size:15px;
+    text-align: justify;
+font-face: "verdana";
+    letter-spacing: 2px;}
+
+subheader {
+    text-align: left;
+    color:black ;
+}
+
+#nav a:hover {background:#f89909;
+    text-decoration:none;
+	color:#f89909;}
+
+
+
+#nav {font-face: "verdana", Arial, sans-serif;}
+
+
